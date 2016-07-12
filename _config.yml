@@ -1,0 +1,28 @@
+name: Jana & Vasant
+favicon: null
+layout_spectrum: 0.11972446902655065
+typography_spectrum: 0.8099037688225508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3631020288448781
+  lightness: 0.8823608085513115
+  saturation: 0.9557941935490817
+  rhythmicContrast: 0.956670839805156
+purpose: []

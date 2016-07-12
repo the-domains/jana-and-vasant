@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Jana and Vasant
-datePublished: '2016-07-12T00:11:21.739Z'
-dateModified: '2016-07-12T00:11:19.512Z'
+datePublished: '2016-07-12T00:21:07.007Z'
+dateModified: '2016-07-12T00:12:17.338Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-jana-and-vasant.md
